@@ -1,0 +1,4 @@
+exec -path=/escritorio/prueba.algo
+mkdisk
+rep
+
